@@ -166,6 +166,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [CovidCubadata](https://covid19cubadata.github.io/world.html) ([repo](https://github.com/covid19cubadata/covid19cubadata.github.io)): Various analysis comparing Cuba with the rest of the world
 - [Covid-19 Predictor India](https://covid-19predictor.herokuapp.com/) ([Covid-19-Prediction](https://github.com/PrateekGoyal18/Covid-19-Prediction)): A web application for forecasting the number of Covid-19 cases in India (cumulative and state-wise).
 - [Covid-19 Pandemic Status](http://corona.rickkln.com/) ([repo](https://github.com/rickkln/corona)): A simple tool to track global progress in defeating Covid-19, by focusing on the rate of change in death count globally and classifying countries by associated status.
+- [Covid-19 Stats Tracker](http://athrael.net/content/covid-19-tracker/) ([repo](https://github.com/athrael-soju/covid-19-tracker/tree/covid-19-tracker-feature)): A tool for observing the covid-19 Pandemic across the globe.
 
 ### Adding your project to the list
 
